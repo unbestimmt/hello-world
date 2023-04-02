@@ -143,19 +143,19 @@ def gestao_dados():
 
             elif opcao == 2:
                 print("-"*10, "DISCIPLINAS", "-"*10,"\n")
-                crud()
+                crud() # EM DESENVOLVIMENTO
 
             elif opcao == 3:
                 print("-"*10, "PROFESSORES", "-"*10,"\n")
-                crud()
+                crud() # EM DESENVOLVIMENTO
 
             elif opcao == 4:
                 print("-"*10, "TURMAS", "-"*10,"\n")
-                crud()
+                crud() # EM DESENVOLVIMENTO
 
             elif opcao == 5:
                 print("-"*10, "MATRÍCULAS", "-"*10,"\n")
-                crud()
+                crud() # EM DESENVOLVIMENTO
             
             elif opcao == 0:
                 sair()
