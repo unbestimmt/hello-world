@@ -1,6 +1,3 @@
-# NOME: DANIELE CRISTINE ENDO PERES
-# CURSO: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
-
 # sistema para gestão de dados acadêmicos
 
 
