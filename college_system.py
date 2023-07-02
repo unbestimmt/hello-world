@@ -1,3 +1,4 @@
+# system in PYTHON to manage data of a school/college, as in students, teachers/professors, courses, classes, and enrolment
 # sistema para gestão de dados acadêmicos
 
 
